@@ -1,7 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
-  <metadata>BPaaS site identity 49799e5b72778e07</metadata>
-  <rect width="64" height="64" rx="15" fill="hsl(89 69% 42%)"/>
-  <path d="M39 0h25v64H25Z" fill="hsl(150 81% 76%)" opacity="0.82"/>
-  <g transform="rotate(198 32 32)" opacity="0.42"><path d="M13 45c7-23 31-23 38 0" fill="none" stroke="#101418" stroke-width="8" stroke-linecap="round"/></g>
-  <text x="32" y="39" text-anchor="middle" fill="#101418" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" letter-spacing="0">GR</text>
+  <title>강서 셔츠룸 추천</title>
+  <rect width="64" height="64" rx="17" fill="hsl(89 65% 34%)"/>
+  <g transform="rotate(180 32 32)"><path d="M32 13 50 23v18L32 51 14 41V23Z" fill="none" stroke="hsl(89 24% 96%)" stroke-width="8" stroke-linejoin="round"/><circle cx="32" cy="32" r="6" fill="hsl(172 68% 68%)"/></g>
 </svg>
